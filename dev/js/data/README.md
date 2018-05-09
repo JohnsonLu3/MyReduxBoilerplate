@@ -1,3 +1,5 @@
+# Example of data reducer from NoteSpace
+
 const notes =[
         {
             id: "XwPp9xazJ0ku5CZnlmgAx2Dld8SHkAeT",
